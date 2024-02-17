@@ -1,5 +1,8 @@
 # World building
 
+[![hackmd-github-sync-badge](https://hackmd.io/OdRuWMf5ThGbYaHBLjmmvw/badge)](https://hackmd.io/OdRuWMf5ThGbYaHBLjmmvw)
+
+
 Players create the parameters of the world together. You can roll once for each column, or just choose what appeals to you.
 
 ## The organization
