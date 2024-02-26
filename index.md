@@ -22,40 +22,29 @@ Players create the parameters of the world together. You can roll once for each 
 https://chat.openai.com/share/017c7ef9-66fd-47b4-9fe6-c63146dc24be
 
 
+| 1d20 | First Column  | Second Column | Third Column  |
+|:----:| ------------- | ------------- | ------------- |
+|  1   | Agency        | Elemental     | Perceptions   |
+|  2   | Alliance      | Enchanted     | Sensibilities |
+|  3   | Assembly      | Esoteric      | Sensation     |
+|  4   | Bureau        | Ethereal      | Connections   |
+|  5   | Collective    | Ethereal      | Entities      |
+|  6   | Confederation | Invisible     | Realms        |
+|  7   | Council       | Metaphysical  | Insights      |
+|  8   | Department    | Mystic        | Affinities    |
+|  9   | Directorate   | Mystical      | Discernment   |
+|  10  | Fellowship    | Otherworldly  | Awareness     |
+|  11  | Institute     | Paranormal    | Perception    |
+|  12  | League        | Spirit        | Seekers       |
+|  13  | Order         | Supernatural  | Sensitivity   |
+|  14  | Society       | Transcendent  | Beings        |
+|  15  | Company       | Occult        | Events        |
+|  16  | Firm          | Cursed        | Relations     |
+|  17  | Office        | Unexplained   | Containment   |
+|  18  | Authority     | Celestial     | Defense       |
+|  19  | Commission    | Liminal       | Affairs       |
+|  20  | Ministry      | Infernal      | Management    |
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Bureau     | Text     | Text     |
-| Society
-| Council
-| Order
-| Alliance
-| Institute
-| Assembly
-| Department
-| Collective
-| Confederation
-| Agency
-| Directorate
-| Fellowship
-| League
-
-
-    The Bureau of Ethereal Connections
-    The Society of Enchanted Sensibilities
-    The Council of Otherworldly Awareness
-    The Order of Invisible Realms
-    The Alliance for Paranormal Perception
-    The Institute of Supernatural Sensitivity
-    The Guardians of the Unseen
-    The Directorate of Mystic Affinities
-    The League of Elemental Perceptions
-    The Assembly of Spirit Seekers
-    The Department of Esoteric Sensation
-    The Fellowship of Ethereal Entities
-    The Agency for Metaphysical Insights
-    The Collective for Transcendent Beings
-    The Confederation of Mystical Discernment
 ## The Others
 
 | 1d6 | Awareness            | Integration   | Prevalence          |
@@ -66,6 +55,7 @@ https://chat.openai.com/share/017c7ef9-66fd-47b4-9fe6-c63146dc24be
 |  4  | Some deniers         | Most places   | A great many        |
 |  5  | Fully                | Everywhere    | Ever-present        |
 |  6  | See note             |               |                     |
+
 :::success
 :warning: On a 6, roll *two* different sets of The Others. They are groups separated by ideology, biology, dimensional origin, or some other defining trait! Not that The Others in general cannot be diverse, but in this case, there are groups so distinct that they require different relationships altogether with humanity.
 :::
