@@ -21,6 +21,41 @@ Players create the parameters of the world together. You can roll once for each 
 
 https://chat.openai.com/share/017c7ef9-66fd-47b4-9fe6-c63146dc24be
 
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Bureau     | Text     | Text     |
+| Society
+| Council
+| Order
+| Alliance
+| Institute
+| Assembly
+| Department
+| Collective
+| Confederation
+| Agency
+| Directorate
+| Fellowship
+| League
+
+
+    The Bureau of Ethereal Connections
+    The Society of Enchanted Sensibilities
+    The Council of Otherworldly Awareness
+    The Order of Invisible Realms
+    The Alliance for Paranormal Perception
+    The Institute of Supernatural Sensitivity
+    The Guardians of the Unseen
+    The Directorate of Mystic Affinities
+    The League of Elemental Perceptions
+    The Assembly of Spirit Seekers
+    The Department of Esoteric Sensation
+    The Fellowship of Ethereal Entities
+    The Agency for Metaphysical Insights
+    The Collective for Transcendent Beings
+    The Confederation of Mystical Discernment
 ## The Others
 
 | 1d6 | Awareness            | Integration   | Prevalence          |
