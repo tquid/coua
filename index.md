@@ -21,29 +21,28 @@ Players create the parameters of the world together. You can roll once for each 
 
 https://chat.openai.com/share/017c7ef9-66fd-47b4-9fe6-c63146dc24be
 
-
 | 1d20 | First Column  | Second Column | Third Column  |
 |:----:| ------------- | ------------- | ------------- |
-|  1   | Agency        | Elemental     | Perceptions   |
-|  2   | Alliance      | Enchanted     | Sensibilities |
-|  3   | Assembly      | Esoteric      | Sensation     |
-|  4   | Bureau        | Ethereal      | Connections   |
-|  5   | Collective    | Ethereal      | Entities      |
-|  6   | Confederation | Invisible     | Realms        |
-|  7   | Council       | Metaphysical  | Insights      |
-|  8   | Department    | Mystic        | Affinities    |
-|  9   | Directorate   | Mystical      | Discernment   |
-|  10  | Fellowship    | Otherworldly  | Awareness     |
-|  11  | Institute     | Paranormal    | Perception    |
-|  12  | League        | Spirit        | Seekers       |
-|  13  | Order         | Supernatural  | Sensitivity   |
-|  14  | Society       | Transcendent  | Beings        |
-|  15  | Company       | Occult        | Events        |
-|  16  | Firm          | Cursed        | Relations     |
-|  17  | Office        | Unexplained   | Containment   |
-|  18  | Authority     | Celestial     | Defense       |
-|  19  | Commission    | Liminal       | Affairs       |
-|  20  | Ministry      | Infernal      | Management    |
+|  1   | Agency        | Celestial     | Affairs       |
+|  2   | Alliance      | Cursed        | Affinities    |
+|  3   | Assembly      | Elemental     | Awareness     |
+|  4   | Authority     | Enchanted     | Beings        |
+|  5   | Bureau        | Esoteric      | Connections   |
+|  6   | Collective    | Eternal       | Containment   |
+|  7   | Commission    | Ethereal      | Defense       |
+|  8   | Company       | Infernal      | Discernment   |
+|  9   | Confederation | Invisible     | Entities      |
+|  10  | Council       | Liminal       | Events        |
+|  11  | Department    | Metaphysical  | Insights      |
+|  12  | Directorate   | Mystic        | Management    |
+|  13  | Fellowship    | Mystical      | Perception    |
+|  14  | Firm          | Occult        | Perceptions   |
+|  15  | Institute     | Otherworldly  | Realms        |
+|  16  | League        | Paranormal    | Relations     |
+|  17  | Ministry      | Spirit        | Seekers       |
+|  18  | Office        | Supernatural  | Sensation     |
+|  19  | Order         | Transcendent  | Sensibilities |
+|  20  | Society       | Unexplained   | Sensitivity   |
 
 ## The Others
 
